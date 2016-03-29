@@ -1,12 +1,19 @@
-thesis
+##Thesis Outline
 
-## Outline
+### Working Title: Validating Estimates of Core versus Transient Site Occupancy in North American Birds
 
-### another header level
+### Working Hypotheses: 
 
-1. First, birds are cool
-2. Also, R is cool
-3. And powerful
+### Background  
+
+### Accomplished To-date: 
+1. 
+2. 
+3. 
 4. 
+
+### Road Map Forward: 
+
+
 
 This is an example of *highlighting* words in markdown.
