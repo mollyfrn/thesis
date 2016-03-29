@@ -18,7 +18,7 @@
 
 #### Accomplished To-date: 
 1. Pilot analysis comparing measures of core and transient species richness between BBS (all) and BBC (1992) datasets based on site pairings across minimum geographic distance. 
-2. 
+  a) *Geographic distance doesn't explain discrepancies between datasets.*
 3. 
 4. 
 
