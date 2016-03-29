@@ -1,10 +1,10 @@
 ##Thesis Outline
 
-### Working Title: Validating Estimates of Core versus Transient Site Occupancy in North American Birds
+#### Working Title: Validating Estimates of Core versus Transient Site Occupancy in North American Birds
 
-### Working Hypotheses: 
+#### Working Hypotheses: 
 
-### Background  
+#### Background  
 
 ### Accomplished To-date: 
 1. 
